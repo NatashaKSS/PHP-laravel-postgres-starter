@@ -1,13 +1,7 @@
-# cs2102proj-VDXN
-CS2102 Database Systems PHP, Postgres web app using the Laravel framework
+# PHP, Postgres web app with Laravel as a framework
 
 ## Online Tutorials
 [Learn all about Laravel in 1 hour](https://www.youtube.com/watch?v=lnf1GdNxDbc&list=PL_UnIDIwT95NUvLU14l_QFFV2ZxO1phpQ)
-
-## Todos:
-* [ ] Most of the DB functions now use Laravel's ORM which we will need to remove for our project
-
----
 
 # SETUP
 ## What you'll need
